@@ -62,7 +62,7 @@
     "cozy-ui": "18.12.0",
     "emoji-js": "3.4.1",
     "eslint-config-prettier": "4.0.0",
-    "focus-trap-react": "4.0.1",
+    "focus-trap-react": "6.0.0",
     "lodash.get": "4.4.2",
     "prop-types": "15.6.2",
     "react-proptypes": "1.0.0",
