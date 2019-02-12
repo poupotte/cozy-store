@@ -3334,10 +3334,10 @@ cozy-scripts@1.13.0:
     webpack-dev-server "3.1.10"
     webpack-merge "4.2.1"
 
-cozy-ui@18.17.0:
-  version "18.17.0"
-  resolved "https://registry.yarnpkg.com/cozy-ui/-/cozy-ui-18.17.0.tgz#90f26119bc1648f6cf436b83f4ef51f6cb16e704"
-  integrity sha512-rKdQdvcAiq3V+jl2P8VCH2cGTvTSUEopHMic5JxsfyI3019M5vQdA6giwym6ejLDP4y6JZ+15ilCh2RcBEOYZg==
+cozy-ui@19.0.0:
+  version "19.0.0"
+  resolved "https://registry.yarnpkg.com/cozy-ui/-/cozy-ui-19.0.0.tgz#af6d11bdee13412f95e0dbdc9ef284e34b5e5064"
+  integrity sha512-LF2vjFMN2NVQpmA5VJGw+jnZBii0KvtkrWKgc4nfvSQyvs3/2F6mJCOgA+VYI/zWBra1qBwDrOPayM0kAKNCuw==
   dependencies:
     body-scroll-lock "^2.5.8"
     classnames "^2.2.5"
